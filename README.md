@@ -1,2 +1,5 @@
-# FlightController
-Iteratively getting a functional PCB board for my RC plane
+PCB diagram:
+![diagram](image.png)
+
+PCB routing:
+![layout](image-1.png)
