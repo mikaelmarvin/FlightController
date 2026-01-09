@@ -1,0 +1,30 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "be28cd6e-9c99-4648-a284-9587c266d762")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "I2C"
+		(shape input)
+		(at 78.74 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "35e2d84a-739c-4d61-8482-e018bf4b70d7")
+	)
+	(hierarchical_label "SPI"
+		(shape input)
+		(at 78.74 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6f5a3957-592b-4677-b087-170e7c82e146")
+	)
+)
