@@ -1,5 +1,5 @@
 High-level overview:
-![High-level-overview](High-level overview.png)
+![High-level-overview](High-level-overview.png)
 
 Schematic:
 ![Schematic](Schematic.png)
