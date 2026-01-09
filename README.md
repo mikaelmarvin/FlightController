@@ -1,5 +1,8 @@
-PCB diagram:
-![diagram](image.png)
+High-level overview:
+![High-level overview](High-level overview.png)
+
+Schematic:
+![Schematic](Schematic.png)
 
 PCB routing:
-![layout](image-1.png)
+![Routing](Routing.png)
