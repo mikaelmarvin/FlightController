@@ -502,9 +502,9 @@
 		)
 		(uuid "c9de6819-543e-4028-a5f9-9fb9e9fbdbd9")
 	)
-	(text "SWD with power\nand UART\n"
+	(text "SWD with UART\n"
 		(exclude_from_sim no)
-		(at 119.38 63.5 0)
+		(at 120.396 63.5 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -853,16 +853,6 @@
 			(type default)
 		)
 		(uuid "7ee8bb5b-d624-43a8-8385-781a60728b18")
-	)
-	(bus
-		(pts
-			(xy 121.92 67.31) (xy 121.92 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "832d06dc-74ae-420a-b9ed-50799b727ff3")
 	)
 	(bus
 		(pts

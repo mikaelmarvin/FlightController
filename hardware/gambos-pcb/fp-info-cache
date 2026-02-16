@@ -1,4 +1,4 @@
-26440378880969918
+26454545368991011
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105609,12 +105609,54 @@ gambos-pcb
 7
 7
 gambos-pcb
+3220-14-0300-00
+
+3220-14-0300-00 
+0
+14
+14
+gambos-pcb
 BME280
 2.5 mm x 2.5 mm x 0.93 mm metal lid LGA
 
 0
 8
 8
+gambos-pcb
+D1213A-04S-7
+
+D1213A-04S-7 
+0
+6
+6
+gambos-pcb
+DESD5V0U1BA-7
+
+DESD5V0U1BA-7 
+0
+2
+2
+gambos-pcb
+DMP3010LPSQ-13
+
+DMP3010LPSQ-13 
+0
+8
+8
+gambos-pcb
+JST-PH
+
+
+0
+2
+2
+gambos-pcb
+LDL1117S33R
+
+
+0
+4
+4
 gambos-pcb
 LIS2MDLTR
 
@@ -105637,7 +105679,21 @@ MCP1825S-3302EDB
 4
 4
 gambos-pcb
+PMOSGDS_TO252DPAK_DIO-M
+
+DMP4047SK3-13 
+0
+3
+3
+gambos-pcb
 SN74AHCT244N
+
+
+0
+20
+20
+gambos-pcb
+SOP65P640X120-20N
 
 
 0
